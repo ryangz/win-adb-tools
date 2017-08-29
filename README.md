@@ -6,3 +6,6 @@ checkAppPackInfo.bat
 
 MulInstallApk.bat
 - Drag and drop the apk file to the .bat file (support multiple mobile installation in one go)
+
+exportLogs.bat
+- Export log and ANR traces files from connected mobile phone.
